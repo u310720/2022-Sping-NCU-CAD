@@ -1,1 +1,1 @@
-# 2022-Sping-NCU-CAD
+# 2022 Sping NCU CAD
