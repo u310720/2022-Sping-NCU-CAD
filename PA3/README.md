@@ -1,1 +1,1 @@
-# Fiduccia Mattheyses Algorithm - Partitioning
+# Partitioning - Fiduccia Mattheyses Algorithm
