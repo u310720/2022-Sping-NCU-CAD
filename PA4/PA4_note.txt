@@ -1,0 +1,4 @@
+1. line coverage要100%，toggle coverage不用100%
+2. 若所有的state都走過了line coverage還沒100%，沒跑到的line極有可能是HT
+3. 寫golden用c++去比較，並print出木馬在哪裡
+4. 一個電路可能不只有一個HT
